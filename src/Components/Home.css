@@ -1,0 +1,10 @@
+
+.home {
+    background-image: url("https://images.stockcake.com/public/2/3/8/2388509b-cc72-4fba-91a0-5f3cca707a08_large/studying-at-night-stockcake.jpg");
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    height: 100vh; 
+    width: 100%; 
+  }

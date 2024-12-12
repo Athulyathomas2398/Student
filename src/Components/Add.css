@@ -1,0 +1,41 @@
+@media (max-width:480px){
+    .container {
+        padding: 10px;
+        width: 100%;
+      }
+      table {
+        width: 100%; 
+        font-size: 14px; 
+      }
+    
+    th, td {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      
+      .btn {
+        font-size: 12px; 
+        padding: 5px 10px; 
+        margin-bottom: 10px; 
+        display: inline-block; 
+      }
+      .btn i {
+        font-size: 12px; 
+      }
+      .btn-success,
+      .btn-info,
+      .btn-primary,
+      .btn-warning {
+        width: 100%; 
+      }
+      table {
+        display: block; 
+        overflow-x: auto;
+        white-space: nowrap;
+      }
+      h1 {
+        font-size: 18px; 
+        text-align: center;
+      }
+}
